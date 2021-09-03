@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessViolationIssue", "AccessViolationIssue.csproj", "{43368B91-EF27-4037-B097-07A57A592FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43368B91-EF27-4037-B097-07A57A592FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43368B91-EF27-4037-B097-07A57A592FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43368B91-EF27-4037-B097-07A57A592FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43368B91-EF27-4037-B097-07A57A592FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E30718-43FE-464A-B779-34FC418003A3}
+	EndGlobalSection
+EndGlobal
